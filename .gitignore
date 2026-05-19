@@ -1,3 +1,4 @@
 #Backend
 Backend/bin
 Backend/obj
+*appsettings.json
